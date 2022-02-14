@@ -59,7 +59,7 @@ table, td, th {
 <div style="display:flex;flex-direction:column">
 
 <div style="display:flex;align-content:center;border:none;border-radius:1px;" >
-<img src="sap.png" alt="SAP Logo" height="40"/> DevOps Engineer Intern at SAP
+<img src="sap.png" alt="SAP Logo" height="200"/> DevOps Engineer Intern at SAP
 </div><br>
 
 <div style="display:flex;align-content:center;border:none;border-radius:0px;" >
