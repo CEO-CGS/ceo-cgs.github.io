@@ -29,7 +29,6 @@ url: https://ceo-cgs.github.io # the base hostname & protocol for your site, e.g
 domain: ceo-cgs.github.io 
 
 # Build settings
-theme: ockham
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
