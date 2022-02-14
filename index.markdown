@@ -4,11 +4,10 @@
 
 ---
 
-<p style="font-size:40pt;color:white">Hassan Warsi</p>
-
+<p style="font-size:45pt;color:white;font-weight:bold">Hassan Warsi</p>
 Hello there! I'm a Software Engineer currently doing my undergrad at University of California, Irvine in Computer Science.  I am also a DevOps Engineer Intern at SAP.
 
-## <span style="color:#29d4ff"><font size="20">Skillset</font></span>
+<p style="font-size:30pt;color:#29d4ff;font-weight:bold">Skillset</p>
 
 |Programming Languages | Tools/Frameworks | Concepts |
 |------------|-----------|-------------|
@@ -36,17 +35,19 @@ Hello there! I'm a Software Engineer currently doing my undergrad at University 
 
 
 
-## <span style="color:#29d4ff"><font size="23">Experience</font></span>
+<p style="font-size:30pt;color:#29d4ff;font-weight:bold">Experience</p>
+
 
 <div align="right">
 
 </div>
 
-## <span style="color:#29d4ff"><font size="23">My Projects</font></span>
+<p style="font-size:30pt;color:#29d4ff;font-weight:bold">My Projects</p>
 
 
 
-<div align="center"> <span style="color:white"><font size="20"><bold>Contact Me</bold></font></span></div>
+<p style="font-size:20pt;color:white;font-weight:bold">Skillset</p>
+
 
 
 
