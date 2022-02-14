@@ -58,17 +58,17 @@ table, td, th {
 
 <div align="right">
 
-DevOps Engineer Intern at SAP
-CEO of BluJolt LLC
+DevOps Engineer Intern at SAP<br/>
+CEO of BluJolt LLC<br/>
 Coding Coach at theCoderSchool
-CTO of Cleverr
-Founder of WarsiBros 
+CTO of Cleverr<br/>
+Founder of WarsiBros<br/> 
 
 </div>
 
 <p style="font-size:30pt;color:#29d4ff;font-weight:bold">My Projects</p>
 
-Fee Management Web App
+Fee Management Web App<br/>
 Intro to Python
 
 
