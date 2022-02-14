@@ -11,13 +11,14 @@ Hello there! I'm a Software Engineer currently doing my undergrad at University 
 <p style="font-size:30pt;color:#29d4ff;font-weight:bold">Skillset</p>
 <style scoped>
 table {
-  font-size: 15px;
 }
 th {
     text-align: left;
+    font-size: 22px;
 }
 td {
-    font-color: grey;
+    font-size: 18px;
+    font-color: #808080;
 }
 table, td, th {
         border: 0px solid black;
