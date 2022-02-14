@@ -60,25 +60,22 @@ table, td, th {
 
 
 <img src="sap.png" alt="SAP Logo" height="50"/> 
-<br>
-DevOps Engineer Intern at SAP
+<p style="color:white;">DevOps Engineer Intern at SAP</p>
 
 
 <img src="thecoderschool.png" alt="theCoderSchool Logo" height="55"/> 
-<br>
-Coding Coach at theCoderSchool
-<br>
-
-
-<img src="blujolt.png" alt="BluJolt" height="50"/> <br>
-CEO of BluJolt LLC<br>
-
-<img src="sap.png" alt="SAP Logo" height="50"/> <br>
-CTO of Cleverr
+<p style="color:white;">Coding Coach at theCoderSchool</p>
 <br>
 
-<img src="sap.png" alt="SAP Logo" height="50"/> <br>
-Founder of WarsiBros
+
+<img src="blujolt.png" alt="BluJolt" height="50"/> 
+<p style="color:white;">CEO of BluJolt LLC</p>
+<br>
+
+<p style="color:white;">CTO of Cleverr</p>
+<br>
+
+<p style="color:white;">Founder of WarsiBros</p>
 <br>
 <br>
 <br>
