@@ -56,7 +56,7 @@ table, td, th {
 
 <p style="font-size:30pt;color:#29d4ff;font-weight:bold">Experience</p>
 
-<div style="display:flex;flex-direction:column">
+
 
 
 <img src="sap.png" alt="SAP Logo" height="50"/> 
@@ -80,7 +80,6 @@ CTO of Cleverr
 <img src="sap.png" alt="SAP Logo" height="50"/> <br>
 Founder of WarsiBros
 <br>
-</div>
 <br>
 <br>
 <p style="font-size:30pt;color:#29d4ff;font-weight:bold">My Projects</p>
