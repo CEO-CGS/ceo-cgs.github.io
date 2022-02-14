@@ -11,8 +11,11 @@ Hello there! I'm a Software Engineer currently doing my undergrad at University 
 <p style="font-size:30pt;color:#29d4ff;font-weight:bold">Skillset</p>
 <style scoped>
 table {
-  font-size: 5px;
+  font-size: 12px;
 }
+table, td, th {
+        border: 0px solid black;
+        }
 </style>
 
 |Programming Languages | Tools/Frameworks | Concepts |
