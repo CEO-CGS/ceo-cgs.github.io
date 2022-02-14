@@ -11,10 +11,11 @@ Hello there! I'm a Software Engineer currently doing my undergrad at University 
 ## <span style="color:#29d4ff">Skillset</span>
 
 **Programming Languages** - 
-|      |
-|------|
-| sasfsd |
-| asfasfw |
+|       |
+|-------|
+| asdfa |
+| pink lady |
+| granny smith |
 
 
 ## <span style="color:#29d4ff">Experience</span>
