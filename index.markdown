@@ -18,7 +18,7 @@ th {
 }
 td {
     font-size: 18px;
-    font-color: #808080;
+    color: #808080;
 }
 table, td, th {
         border: 0px solid black;
