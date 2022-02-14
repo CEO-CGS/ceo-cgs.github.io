@@ -59,22 +59,22 @@ table, td, th {
 
 
 <div style="display:flex;float:right;" >
-<img src="sap.png" alt="SAP Logo" height="30"/> DevOps Engineer Intern at SAP<br/>
-</div>
+<img src="sap.png" alt="SAP Logo" height="30"/> DevOps Engineer Intern at SAP
+</div><br>
 <div style="display:flex;float:right;" >
-<img src="sap.png" alt="SAP Logo" height="30"/> Coding Coach at theCoderSchool<br/>
-</div>
+<img src="sap.png" alt="SAP Logo" height="30"/> Coding Coach at theCoderSchool
+</div><br>
 <div style="display:flex;float:right;" >
-<img src="sap.png" alt="SAP Logo" height="30"/> CEO of BluJolt LLC<br/>
-</div>
+<img src="sap.png" alt="SAP Logo" height="30"/> CEO of BluJolt LLC
+</div><br>
 <div style="display:flex;float:right;" >
-<img src="sap.png" alt="SAP Logo" height="30"/> CTO of Cleverr<br/>
-</div>
+<img src="sap.png" alt="SAP Logo" height="30"/> CTO of Cleverr
+</div><br>
 <div style="display:flex;float:right;" >
-<img src="sap.png" alt="SAP Logo" height="30"/> Founder of WarsiBros<br/>
-</div>
-<br/>
-
+<img src="sap.png" alt="SAP Logo" height="30"/> Founder of WarsiBros
+</div><br>
+<br>
+<br>
 <p style="font-size:30pt;color:#29d4ff;font-weight:bold">My Projects</p>
 
 Fee Management Web App<br/>
