@@ -12,14 +12,14 @@ p {
 <p style="font-size:45pt;color:white;font-weight:bold;padding-bottom:0px;margin-bottom:1px">Hassan Warsi</p>
 Hello there! I'm a Software Engineer currently doing my undergrad at University of California, Irvine in Computer Science.  I am also a DevOps Engineer Intern at SAP.
 <br><br>
-<p style="font-size:30pt;color:#29d4ff;font-weight:bold">Skillset</p>
+<p style="font-size:30pt;color:#29d4ff;font-weight:bold;padding-bottom:0px;margin-bottom:1px">Skillset</p>
 
 <style scoped>
 table {
 }
 th {
     text-align: left;
-    font-size: 20px;
+    font-size: 22px;
 }
 td {
     font-size: 15px;
@@ -54,17 +54,22 @@ table, td, th {
 
 
 
-
-
 <p style="font-size:30pt;color:#29d4ff;font-weight:bold">Experience</p>
 
-
 <div align="right">
+
+DevOps Engineer Intern at SAP
+CEO of BluJolt LLC
+Coding Coach at theCoderSchool
+CTO of Cleverr
+Founder of WarsiBros 
 
 </div>
 
 <p style="font-size:30pt;color:#29d4ff;font-weight:bold">My Projects</p>
 
+Fee Management Web App
+Intro to Python
 
 
 <p style="font-size:20pt;color:white;font-weight:bold;text-align:center">Contact Me</p>
