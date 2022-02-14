@@ -6,20 +6,20 @@
 
 #  Hassan Warsi
 
-    Hello there! I'm Software Engineer currently doing my undergrad at University of California, Irvine in Computer Science.  I am also a DevOps Engineer Intern at SAP.
+Hello there! I'm Software Engineer currently doing my undergrad at University of California, Irvine in Computer Science.  I am also a DevOps Engineer Intern at SAP.
 
-## Skillset
+## <span style="color:blue">Skillset
+</span>
 
-
-## Experience
-
-
-
-## My Projects 
+## <span style="color:blue">Experience</span>
 
 
 
-<align="center">>Contact </align>
+## <span style="color:blue">My Projects</span>
+
+
+
+<align="center"> Contact </align>
 
 
 
