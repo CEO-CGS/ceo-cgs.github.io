@@ -4,7 +4,7 @@
 
 ---
 
-# <span style="color:white"><p style="font-size:40pt">Hassan Warsi</p></font></span>
+# <p style="font-size:40pt;color:white">Hassan Warsi</p>
 
 Hello there! I'm a Software Engineer currently doing my undergrad at University of California, Irvine in Computer Science.  I am also a DevOps Engineer Intern at SAP.
 
