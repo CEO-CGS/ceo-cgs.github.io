@@ -9,6 +9,11 @@
 Hello there! I'm a Software Engineer currently doing my undergrad at University of California, Irvine in Computer Science.  I am also a DevOps Engineer Intern at SAP.
 <br><br>
 <p style="font-size:30pt;color:#29d4ff;font-weight:bold">Skillset</p>
+<style scoped>
+table {
+  font-size: 5px;
+}
+</style>
 
 |Programming Languages | Tools/Frameworks | Concepts |
 |------------|-----------|-------------|
