@@ -8,7 +8,7 @@
 
 Hello there! I'm a Software Engineer currently doing my undergrad at University of California, Irvine in Computer Science.  I am also a DevOps Engineer Intern at SAP.
 
-## <span style="color:#29d4ff"><font size="23">Skillset</font></span>
+## <span style="color:#29d4ff"><font size="20">Skillset</font></span>
 
 |Programming Languages | Tools/Frameworks | Concepts |
 |------------|-----------|-------------|
@@ -46,7 +46,7 @@ Hello there! I'm a Software Engineer currently doing my undergrad at University 
 
 
 
-<div align="center"> <span style="color:white"><bold><font size="25">Contact Me</bold></font></span></div>
+<div align="center"> <span style="color:white"><font size="20"><bold>Contact Me</bold></font></span></div>
 
 
 
