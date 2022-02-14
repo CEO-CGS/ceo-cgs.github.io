@@ -56,18 +56,24 @@ table, td, th {
 
 <p style="font-size:30pt;color:#29d4ff;font-weight:bold">Experience</p>
 
-<div align="right">
+
 
 <div style="display:flex;float:right;" >
 <img src="sap.png" alt="SAP Logo" height="30"/> DevOps Engineer Intern at SAP<br/>
 </div>
-
-CEO of BluJolt LLC<br/>
-Coding Coach at theCoderSchool
-CTO of Cleverr<br/>
-Founder of WarsiBros<br/> 
-
+<div style="display:flex;float:right;" >
+<img src="sap.png" alt="SAP Logo" height="30"/> Coding Coach at theCoderSchool<br/>
 </div>
+<div style="display:flex;float:right;" >
+<img src="sap.png" alt="SAP Logo" height="30"/> CEO of BluJolt LLC<br/>
+</div>
+<div style="display:flex;float:right;" >
+<img src="sap.png" alt="SAP Logo" height="30"/> CTO of Cleverr<br/>
+</div>
+<div style="display:flex;float:right;" >
+<img src="sap.png" alt="SAP Logo" height="30"/> Founder of WarsiBros<br/>
+</div>
+<br/>
 
 <p style="font-size:30pt;color:#29d4ff;font-weight:bold">My Projects</p>
 
