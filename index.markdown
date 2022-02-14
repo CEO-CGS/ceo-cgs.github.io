@@ -56,25 +56,25 @@ table, td, th {
 
 <p style="font-size:30pt;color:#29d4ff;font-weight:bold">Experience</p>
 
-<div style="display:flex;flex-direction:column">
+<div style="display:flex;float:right;  flex-direction:column">
 
-<div style="display:flex;float:right;  justify-content:center;border:none;border-radius:0px;" >
-<img src="sap.png" alt="SAP Logo" height="30"/> DevOps Engineer Intern at SAP
+<div style="display:flex;align-content:center;border:none;border-radius:0px;" >
+<img src="sap.png" alt="SAP Logo" height="40"/> DevOps Engineer Intern at SAP
 </div><br>
 
-<div style="display:flex;float:right;" >
-<img src="thecoderschool.png" alt="theCoderSchool Logo" height="30"/> Coding Coach at theCoderSchool
+<div style="display:flex;align-content:center;border:none;border-radius:0px;" >
+<img src="thecoderschool.png" alt="theCoderSchool Logo" height="40"/> Coding Coach at theCoderSchool
 </div><br>
 
-<div style="display:flex;float:right;" >
+<div style="display:flex;align-content:center;border:none;border-radius:0px;" >
 <img src="blujolt.png" alt="BluJolt" height="30"/> CEO of BluJolt LLC
 </div><br>
 
-<div style="display:flex;float:right;" >
+<div style="display:flex;align-content:center;border:none;border-radius:0px;" >
 <img src="sap.png" alt="SAP Logo" height="30"/> CTO of Cleverr
 </div><br>
 
-<div style="display:flex;float:right;" >
+<div style="display:flex;align-content:center;border:none;border-radius:0px;" >
 <img src="sap.png" alt="SAP Logo" height="30"/> Founder of WarsiBros
 </div><br>
 </div>
