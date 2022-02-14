@@ -29,7 +29,7 @@ url: https://ceo-cgs.github.io # the base hostname & protocol for your site, e.g
 domain: ceo-cgs.github.io 
 
 # Build settings
-theme: jekyll-theme-cayman
+theme: ockham
 plugins:
   - jekyll-feed
 
