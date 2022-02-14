@@ -56,9 +56,9 @@ table, td, th {
 
 <p style="font-size:30pt;color:#29d4ff;font-weight:bold">Experience</p>
 
-<div style="display:flex;float:right;  flex-direction:column">
+<div style="display:flex;flex-direction:column">
 
-<div style="display:flex;align-content:center;border:none;border-radius:0px;" >
+<div style="display:flex;align-content:center;border:none;border-radius:1px;" >
 <img src="sap.png" alt="SAP Logo" height="40"/> DevOps Engineer Intern at SAP
 </div><br>
 
