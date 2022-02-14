@@ -8,18 +8,18 @@
 
 Hello there! I'm Software Engineer currently doing my undergrad at University of California, Irvine in Computer Science.  I am also a DevOps Engineer Intern at SAP.
 
-## <span style="color:blue">Skillset
-</span>
-
-## <span style="color:blue">Experience</span>
+## <span style="color:#29d4ff">Skillset</span>
 
 
-
-## <span style="color:blue">My Projects</span>
+## <span style="color:#29d4ff">Experience</span>
 
 
 
-<align="center"> Contact </align>
+## <span style="color:#29d4ff">My Projects</span>
+
+
+
+<align="center"> Contact Me</align>
 
 
 
