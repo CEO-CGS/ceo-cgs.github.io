@@ -63,11 +63,11 @@ table, td, th {
 </div><br>
 
 <div style="display:flex;float:right;" >
-<img src="sap.png" alt="SAP Logo" height="30"/> Coding Coach at theCoderSchool
+<img src="thecoderschool.png" alt="theCoderSchool Logo" height="30"/> Coding Coach at theCoderSchool
 </div><br>
 
 <div style="display:flex;float:right;" >
-<img src="sap.png" alt="SAP Logo" height="30"/> CEO of BluJolt LLC
+<img src="blujolt.png" alt="BluJolt" height="30"/> CEO of BluJolt LLC
 </div><br>
 
 <div style="display:flex;float:right;" >
