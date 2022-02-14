@@ -3,22 +3,27 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 ---
-
+<style>
+p {
+    color:#9c9c9c;
+}
+</style>
 <br>
 <p style="font-size:45pt;color:white;font-weight:bold;padding-bottom:0px;margin-bottom:1px">Hassan Warsi</p>
 Hello there! I'm a Software Engineer currently doing my undergrad at University of California, Irvine in Computer Science.  I am also a DevOps Engineer Intern at SAP.
 <br><br>
 <p style="font-size:30pt;color:#29d4ff;font-weight:bold">Skillset</p>
+
 <style scoped>
 table {
 }
 th {
     text-align: left;
-    font-size: 22px;
+    font-size: 20px;
 }
 td {
-    font-size: 18px;
-    color: #808080;
+    font-size: 15px;
+    color: #9c9c9c;
 }
 table, td, th {
         border: 0px solid black;
