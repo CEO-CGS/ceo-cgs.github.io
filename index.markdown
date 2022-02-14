@@ -58,8 +58,8 @@ table, td, th {
 
 <div align="right">
 
-<div style="display:flex" >
-<img src="sap.png" alt="SAP Logo" height="100"/> DevOps Engineer Intern at SAP<br/>
+<div style="display:flex;float:right;" >
+<img src="sap.png" alt="SAP Logo" height="30"/> DevOps Engineer Intern at SAP<br/>
 </div>
 
 CEO of BluJolt LLC<br/>
