@@ -10,12 +10,24 @@ Hello there! I'm a Software Engineer currently doing my undergrad at University 
 
 ## <span style="color:#29d4ff">Skillset</span>
 
-**Programming Languages** - 
-|       |
-|-------|
-| asdfa |
-| pink lady |
-| granny smith |
+|Programming Languages | Tools/Frameworks |
+|------------|-----------|
+| Python | ReactJS|
+|Java  | Docker|
+|Javascript| Kubernetes|
+|C#| Flutter|
+|C++| Material UI|
+|HTML| XCode|
+|CSS| |
+|Dart| |
+|Terraform| |
+|YAML| |
+|    | |
+|    | |
+
+
+
+
 
 
 ## <span style="color:#29d4ff">Experience</span>
@@ -26,7 +38,7 @@ Hello there! I'm a Software Engineer currently doing my undergrad at University 
 
 
 
-<div align="center"> <span style="color:#29d4ff">Contact Me</span></div>
+<div align="center"> <span style="color:white">**Contact Me**</span></div>
 
 
 
