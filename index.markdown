@@ -56,7 +56,7 @@ table, td, th {
 
 <p style="font-size:30pt;color:#29d4ff;font-weight:bold">Experience</p>
 
-<img src="sap.png" alt="SAP Logo" height="50"/> 
+<img src="sap.png" alt="SAP Logo" height="54"/> 
 <p style="color:white;">DevOps Engineer Intern at SAP</p>
 Dec 2021 - Present
 <br>
@@ -72,6 +72,8 @@ Jul 2021 - Nov 2021
 <p style="color:white;">CEO of BluJolt LLC</p>
 May 2021 - Present
 <br>
+<img src="schoolsync.png" height="300"/> 
+<img src="phoneView.png" height="300"/> 
 
 <p style="color:white;">CTO of Cleverr</p>
 Mar 2021 - Jul 2021
@@ -85,7 +87,7 @@ Jan 2017 - Jul 2020
 
 Fee Management Web App<br/>
 Intro to Python
-
+<img src="pythonSite.png" height="300"/> 
 
 <p style="font-size:20pt;color:white;font-weight:bold;text-align:center">Contact Me</p>
 
