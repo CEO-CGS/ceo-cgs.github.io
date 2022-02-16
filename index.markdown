@@ -14,6 +14,12 @@ body {
 <br><br><br>
 <p style="font-size:45pt;color:white;font-weight:bold;padding-bottom:0px;margin-bottom:1px">Hassan Ahmed Warsi</p>
 Hello there! I'm a Software Engineer from California doing my undergrad at University of California, Irvine in Computer Science. My planned graduation time is June 2024.  My current role is as a DevOps Engineer Intern at SAP. You can reach me by [email](mailto:hassanw2400@gmail.com).
+<div style="display:flex;margin-left:7px">
+<img src="github.png" onclick="location.href='https://github.com/CEO-CGS';"   style="margin-right:10px;cursor:pointer" height="50"/> 
+<img src="linkedin.png" onclick="location.href='https://www.linkedin.com/in/hassan-warsi-57a240198/';" style="margin-right:13px;cursor:pointer" height="50"/> 
+<img src="mail.png" style="margin-right:13px;cursor:pointer" onclick="location.href='mailto:hassanw2400@gmail.com';" height="50"/> 
+<img src="phone.png" onclick="location.href='tel:9493537976';" style="margin-right:12px;cursor:pointer" height="50"/> 
+</div>
 <br><br><br><br><br><br>
 
 <p style="font-size:30pt;color:#29d4ff;font-weight:bold;padding-bottom:0px;margin-bottom:1px">Skills</p>
@@ -82,12 +88,12 @@ May 2021 - Present
 <p style="color:#c9c9c9">- Established an incorporated software development startup, developing a learning system for schools and a job-finding app<br>
 - Managed a team of 3+ members, assigned development tasks and helped grow members’ expertise through introducing them to tools and frameworks such as Github, Flutter, ReactJS, Asana<br>
 - Built a Learning Management System with a total of 7 mobile and web app frontends with Flutter and ReactJS, and an AWS backend<br><br>
-The image below shows a small snapshot of a portion of one of the SaaSs.
+The image below shows a small snapshot of a portion of one of the SaaSs:
 </p>
 <img src="bjOverlap.png" height="450"/> 
 <br>
 <br><img src="thecoderschool.png" alt="theCoderSchool Logo" height="55"/> 
-<div style="display:flex;align-items: center;;height:15px;margin:0px;padding:0px"><p style="color:white;font-weight:bold;font-size:16pt">theCoderSchool</p> &nbsp;&nbsp; - Code Coach</div>
+<div style="display:flex;align-items: center;;height:15px;margin:0px;padding:0px"><p style="color:white;font-weight:bold;font-size:16pt">theCoderSchool</p> &nbsp;&nbsp; - Coding Coach</div>
 Jul 2021 - Nov 2021
 <br>
 <p style="color:#c9c9c9">- Taught kids as young as 8 to code in Python and block-code in Scratch<br>
@@ -99,9 +105,8 @@ Jul 2021 - Nov 2021
 <div style="display:flex;align-items: center;;height:15px;margin:0px;padding:0px"><p style="color:white;font-weight:bold;font-size:16pt">Cleverr</p> &nbsp;&nbsp;- CTO</div>
 Mar 2021 - Jul 2021
 <br>
-<p style="color:#c9c9c9">- Established an incorporated software development startup, developing a learning system for schools and a job-finding app<br>
-- Managed a team of 3+ members, assigned development tasks and helped grow members’ expertise through introducing them to tools and frameworks such as Github, Flutter, ReactJS, Asana<br>
-- Built a Learning Management System with a total of 7 mobile and web app frontends with Flutter and ReactJS, and an AWS backend
+<p style="color:#c9c9c9">- Programmed 2 web apps and 1 mobile app using Flutter, XCode, Braintree, and other tools for the job-finding software startup<br>
+- Constructed more than 15 user interface screens utilizing paint.net for the product, to make it intuitive and user-friendly
 </p>
 
 <br>
@@ -145,7 +150,8 @@ Below it shows a snippet from the site:
 <br>
 <br>
 
-<div style="font-size:25pt;color:#1f1f1f;font-weight:bold;background-color:#29d4ff;border-radius:5px;width:214px;margin-left: auto; margin-right: 0;padding-left:15px;padding-right:15px;padding-top:5px;padding-bottom:5px;cursor:pointer"  onclick="location.href='mailto:hassanw2400@gmail.com';">Contact Me</div>
+<div style="font-size:25pt;color:#1f1f1f;font-weight:bold;background-color:#29d4ff;border-radius:5px;width:214px;margin-left: auto; margin-right: 10px;padding-left:15px;padding-right:15px;padding-top:5px;padding-bottom:5px;cursor:pointer"  onclick="location.href='mailto:hassanw2400@gmail.com';">Contact Me</div>
+<br>
 <br>
 
 
