@@ -1,7 +1,7 @@
 ---
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
+title: Hassan Warsi
 ---
 <style>
 p {
@@ -46,6 +46,8 @@ table, td, th {
 |Dart| GitHub Actions | Graphics |
 |YAML| Azure | |
 |    | Terraform  |   |
+|    | Android Studio  |   |
+|    | NoSQL  |   |
 ||AWS | |
 |    | Netlify | |
 |    | Visual Studio Code |    |
