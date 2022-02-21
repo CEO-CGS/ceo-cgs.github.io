@@ -75,8 +75,7 @@ table, td, th {
 Dec 2021 - Present
 <br>
 <p style="color:#c9c9c9">- Collaborated in Agile teams of 7-15 members, utilizing cutting-edge technologies to automate infrastructure and provide SRE<br>
-- Introduced automation workflows potentially cutting hours in development processes<br>
-- Learned more than 7 tools and frameworks fairly quickly, ranging from infrastructure as code to alert management tools<br>- Built a Terraform provider plugin using Golang that would potentially cut hours in cloud resource management
+- Introduced automation workflows potentially cutting hours in development processes<br>- Built a Terraform provider plugin using Golang that would potentially cut hours in cloud resource management<br>- Learned more than 7 tools and frameworks fairly quickly, ranging from infrastructure as code to alert management tools
 
 </p>
 <br>
