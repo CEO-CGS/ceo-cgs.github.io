@@ -50,8 +50,8 @@ table, td, th {
 |HTML| XCode| Linux |
 |CSS| GitHub |  Game Developement |
 |Dart| GitHub Actions | Graphics |
-|YAML| Azure | |
-|    | Terraform  |   |
+|YAML| Azure | APIs |
+| Go | Terraform  |   |
 |    | Android Studio  |   |
 |    | NoSQL  |   |
 ||AWS | |
@@ -76,7 +76,7 @@ Dec 2021 - Present
 <br>
 <p style="color:#c9c9c9">- Collaborated in Agile teams of 7-15 members, utilizing cutting-edge technologies to automate infrastructure and provide SRE<br>
 - Introduced automation workflows potentially cutting hours in development processes<br>
-- Learned more than 7 tools and frameworks fairly quickly, ranging from infrastructure as code to alert management tools
+- Learned more than 7 tools and frameworks fairly quickly, ranging from infrastructure as code to alert management tools<br>- Built a Terraform provider plugin using Golang that would potentially cut hours in cloud resource management
 
 </p>
 <br>
