@@ -74,9 +74,7 @@ table, td, th {
 <div style="display:flex;align-items: center;height:15px;margin:0px;padding:0px"><p style="color:white;font-weight:bold;font-size:16pt">SAP</p> &nbsp;&nbsp;- DevOps Engineer Intern</div>
 Dec 2021 - Present
 <br>
-<p style="color:#c9c9c9">- Collaborated in Agile teams of 7-15 members, utilizing cutting-edge technologies to automate infrastructure and provide SRE<br>
-- Introduced automation workflows potentially cutting hours in development processes<br>- Built a Terraform provider plugin using Golang that would potentially cut hours in cloud resource management<br>- Learned more than 7 tools and frameworks fairly quickly, ranging from infrastructure as code to alert management tools
-
+<p style="color:#c9c9c9">
 </p>
 <br>
 <br>
