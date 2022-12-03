@@ -51,10 +51,16 @@ table, td, th {
 |CSS| GitHub |  Game Developement |
 |Dart| GitHub Actions | Graphics |
 |YAML| Azure | APIs |
-| Go | Terraform  |   |
-|    | Android Studio  |   |
+| Go | Terraform  | Monitoring |
+|    | Android Studio  | Alerting  |
 |    | NoSQL  |   |
 ||AWS | |
+|    | Docusaraus |    |
+|    | Conftest |    |
+|    | Prometheus |    |
+|    | Grafana |    |
+|    | Helm |    |
+|    | Kubernetes Operators |    |
 |    | Netlify | |
 |    | Visual Studio Code |    |
 |    | Jira |    |
@@ -63,7 +69,6 @@ table, td, th {
 |    | NodeJS |    |
 |    | PagerDuty |    |
 |    | MkDocs |    |
-|    | Docusaraus |    |
 
 <br>
 <br>
@@ -106,7 +111,6 @@ Mar 2021 - Jul 2021
 - Constructed more than 15 user interface screens utilizing paint.net for the product, to make it intuitive and user-friendly
 </p>
 
-<br>
 <div style="display:flex;align-items: center;;height:15px;margin:0px;padding:0px"><p style="color:white;font-weight:bold;font-size:16pt">WarsiBros</p> &nbsp;&nbsp; - Founder and Programmer</div>
 Jan 2017 - Jul 2020
 <br>
@@ -118,6 +122,18 @@ These games are from my middle school and early high school years. Below shows a
 <img src="games.jpeg" height="450"/> 
 <br>
 <p style="font-size:30pt;color:#29d4ff;font-weight:bold">My Projects</p>
+
+<p style="color:white;font-weight:bold;font-size:16pt; padding:0px;margin:0px">Task App (In Progress)</p>
+<a href="https://github.com/CEO-CGS/taskapp">https://github.com/CEO-CGS/taskapp</a>
+<p style="color:#c9c9c9">- Building an app with a friend using Kubernetes, Helm charts, Kubernetes Operators, Postgres,  and ReactJS to automatically fetch tasks from a variety of sources <br>
+- Provides public APIs with API docs exposed via Ingress <br>
+- Showcases cloud native and cloud agnostic infrastrastructure that is vendor agnostic and can run on any major cloud provider
+- Stored via GitHub for version control, using PRs and code review process to manage contributions
+<br><br>
+Below it shows an overview of the UI:
+</p>
+<img src="taskapp.png" height="380"/> 
+<br>
 
 <p style="color:white;font-weight:bold;font-size:16pt; padding:0px;margin:0px">Fee Management Web App</p>
 (Code Stored in a Private Repo)
