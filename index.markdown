@@ -127,7 +127,7 @@ These games are from my middle school and early high school years. Below shows a
 <a href="https://github.com/CEO-CGS/taskapp">https://github.com/CEO-CGS/taskapp</a>
 <p style="color:#c9c9c9">- Building an app with a friend using Kubernetes, Helm charts, Kubernetes Operators, Postgres,  and ReactJS to automatically fetch tasks from a variety of sources <br>
 - Provides public APIs with API docs exposed via Ingress <br>
-- Showcases cloud native and cloud agnostic infrastrastructure that is vendor agnostic and can run on any major cloud provider
+- Showcases cloud native and cloud agnostic infrastrastructure that is vendor agnostic and can run on any major cloud provider <br>
 - Stored via GitHub for version control, using PRs and code review process to manage contributions
 <br><br>
 Below it shows an overview of the UI:
