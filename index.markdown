@@ -84,10 +84,14 @@ Sep 2023 - Present
 <br>
 <br>
 <img src="sap.png" alt="SAP Logo" height="54"/> 
-<div style="display:flex;align-items: center;height:15px;margin:0px;padding:0px"><p style="color:white;font-weight:bold;font-size:16pt">SAP CIC</p> &nbsp;&nbsp;- DevOps Engineer Intern</div>
+<div style="display:flex;align-items: center;height:15px;margin:0px;padding:0px"><p style="color:white;font-weight:bold;font-size:16pt">SAP Industry Cloud</p> &nbsp;&nbsp;- DevOps Engineer Intern</div>
 Dec 2021 - Aug 2023
 <br>
-<p style="color:#c9c9c9">
+<p style="color:#c9c9c9">- Collaborated in 2 Agile teams, automating infrastructure and delivering SRE <br>
+- Introduced automation using Golang, Python, Kubernetes, and GitHub Actions, accelerating onboarding by 3+ days, saving $6,000 monthly in Kafka costs, and visualizing slow queries across Azure and GCP Postgres in 8+ SaaS products <br>
+- Developed and fortified core infrastructure platform framework for 8+ SaaS products<br>
+- Designed and executed hibernation workflows for Postgres and HANA DB, saving over $5k monthly<br>
+
 </p>
 <br>
 <br>
