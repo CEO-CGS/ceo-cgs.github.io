@@ -13,7 +13,7 @@ body {
 </style>
 <br><br><br>
 <p style="font-size:45pt;color:white;font-weight:bold;padding-bottom:0px;margin-bottom:1px">Hassan Ahmed Warsi</p>
-Hello there! I'm a Software Engineer from California. I am currently a DevOps Engineer Intern at SAP, doing my undergrad at the University of California, Irvine in Computer Science. My planned graduation time is June 2024. You can reach me by [email](mailto:hassanw2400@gmail.com).
+Hello there! I'm a Software Engineer from California. I am currently a DevOps Engineer at SAP, doing my undergrad at the University of California, Irvine in Computer Science. My planned graduation time is June 2024. You can reach me by [email](mailto:hassanw2400@gmail.com).
 <div style="display:flex;margin-left:7px">
 <img src="github.png" onclick="location.href='https://github.com/CEO-CGS';"   style="margin-right:10px;cursor:pointer" height="50"/> 
 <img src="linkedin.png" onclick="location.href='https://www.linkedin.com/in/hassan-warsi-57a240198/';" style="margin-right:13px;cursor:pointer" height="50"/> 
@@ -147,8 +147,6 @@ Below it shows an overview of the UI:
 (Code Stored in a Private Repo)
 <p style="color:#c9c9c9">- Developed a ReactJS application with an AWS backend, providing graphs and payment management for a local learning center with more than 140 students<br>
 - Planned to drastically cut time in (what used to be) manual and time-consuming processes by hours (once implemented)<br>
-<p style="color:white">I can't show a photo because it has sensitive data and it is for internal use only, but I can say the web app was made with a white, grey, and neon green theme.<p>
-</p>
 <br>
 <p style="color:white;font-weight:bold;font-size:16pt; padding:0px;margin:0px">Intro to Python Docs</p>
 <a href="https://ceo-cgs.github.io/pythonDocs/">https://ceo-cgs.github.io/pythonDocs/</a>
