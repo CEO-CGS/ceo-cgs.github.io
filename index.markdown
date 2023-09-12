@@ -13,7 +13,7 @@ body {
 </style>
 <br><br><br>
 <p style="font-size:45pt;color:white;font-weight:bold;padding-bottom:0px;margin-bottom:1px">Hassan Ahmed Warsi</p>
-Hello there! I'm a Software Engineer from California doing my undergrad at University of California, Irvine in Computer Science. My planned graduation time is June 2024.  My current role is as a DevOps Engineer Intern at SAP. You can reach me by [email](mailto:hassanw2400@gmail.com).
+Hello there! I'm a Software Engineer from California. I am currently a DevOps Engineer Intern at SAP, doing my undergrad at the University of California, Irvine in Computer Science. My planned graduation time is June 2024. You can reach me by [email](mailto:hassanw2400@gmail.com).
 <div style="display:flex;margin-left:7px">
 <img src="github.png" onclick="location.href='https://github.com/CEO-CGS';"   style="margin-right:10px;cursor:pointer" height="50"/> 
 <img src="linkedin.png" onclick="location.href='https://www.linkedin.com/in/hassan-warsi-57a240198/';" style="margin-right:13px;cursor:pointer" height="50"/> 
@@ -76,8 +76,16 @@ table, td, th {
 <p style="font-size:30pt;color:#29d4ff;font-weight:bold">Experience</p>
 <br>
 <img src="sap.png" alt="SAP Logo" height="54"/> 
-<div style="display:flex;align-items: center;height:15px;margin:0px;padding:0px"><p style="color:white;font-weight:bold;font-size:16pt">SAP</p> &nbsp;&nbsp;- DevOps Engineer Intern</div>
-Dec 2021 - Present
+<div style="display:flex;align-items: center;height:15px;margin:0px;padding:0px"><p style="color:white;font-weight:bold;font-size:16pt">SAP</p> &nbsp;&nbsp;- DevOps Engineer</div>
+Sep 2023 - Present
+<br>
+<p style="color:#c9c9c9">
+</p>
+<br>
+<br>
+<img src="sap.png" alt="SAP Logo" height="54"/> 
+<div style="display:flex;align-items: center;height:15px;margin:0px;padding:0px"><p style="color:white;font-weight:bold;font-size:16pt">SAP CIC</p> &nbsp;&nbsp;- DevOps Engineer Intern</div>
+Dec 2021 - Aug 2023
 <br>
 <p style="color:#c9c9c9">
 </p>
