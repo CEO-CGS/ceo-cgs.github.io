@@ -13,7 +13,7 @@ body {
 </style>
 <br><br><br>
 <p style="font-size:45pt;color:white;font-weight:bold;padding-bottom:0px;margin-bottom:1px">Hassan Ahmed Warsi</p>
-Hello there! I'm a Software Engineer from California. I am currently a DevOps Engineer at SAP, doing my undergrad at the University of California, Irvine in Computer Science. My planned graduation time is June 2024. You can reach me by [email](mailto:hassanw2400@gmail.com).
+Hello there! I'm a Software Engineer from California. I am currently a DevOps Engineer at SAP. You can reach me by [email](mailto:hassanw2400@gmail.com).
 <div style="display:flex;margin-left:7px">
 <img src="github.png" onclick="location.href='https://github.com/CEO-CGS';"   style="margin-right:10px;cursor:pointer" height="50"/> 
 <img src="linkedin.png" onclick="location.href='https://www.linkedin.com/in/hassan-warsi-57a240198/';" style="margin-right:13px;cursor:pointer" height="50"/> 
